@@ -1,9 +1,6 @@
 # matplotlib-challenge
 Module 6 Challenge 
 
-# matplotlib-challenge
-
-
 ## Weekly Challenge for Module 5
 
 This challenge was completed as part of the [Northwestern University Data Science and Visualization BootCamp](https://bootcamp.northwestern.edu/data/).
